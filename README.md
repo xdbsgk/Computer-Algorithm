@@ -21,3 +21,9 @@
 
 **Programming Assignment 06**
 - 문자열 찾기 (Matching)
+
+**Programming Assignment 07**
+- Navi 
+
+**Programming Assignment 08**
+- Diet (0-1 Knapsack DP)
